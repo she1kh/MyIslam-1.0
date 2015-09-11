@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyIslam 1.0</string>
+
+    <string name="turnon">Turn on</string>
+    <string name="manually">Enter manually</string>
+    <string name="exit">Exit</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="later">Later</string>
+
+
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string-array name="prayer_array"> // name of the string array
+        <item>Fajr</item> // items
+        <item>Sunrise</item>
+        <item>Zuhr</item>
+        <item>Asr</item>
+        <item>Maghrib</item>
+        <item>Isha</item>
+    </string-array>
+
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="zuhr">Zuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="timetopray">It´s time to pray</string>
+
+</resources>
